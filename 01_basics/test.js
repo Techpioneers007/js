@@ -1,1 +1,1 @@
-console.log("konnichiwa");
+console.log("konnichiwa,Hajima-Mashite,sam desu,yorrishiku one-gaishi-masu.\nwatashiwa Indo-jin desu ");
